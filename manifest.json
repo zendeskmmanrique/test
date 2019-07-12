@@ -1,0 +1,11 @@
+{
+    "name": "Itaú MS Exchange Integration",
+    "id": "cb-zendesk-exchange-integration",
+    "author": "Raphael Novalo",
+    "version": "v1.7.5",
+    "urls": {
+        "admin_ui": "https://www.wikipedia.org/",
+        "pull_url": "https://green-tiger-47.localtunnel.me/api/pull_url",
+        "channelback_url": "https://green-tiger-47.localtunnel.me/api/channelback_url"
+    }
+}
